@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: Primary-School-Management-System-Setup-1.0.1.exe
-    sha512: Nule0BGiipJ8h5zWDvrb3YgcrVoWu5ZXu6FqY1T1ZeFdsowmxKzKIE7nvS7qwI6Oio0Yc9ADjHYI29+FMXXRUQ==
-    size: 118645548
-path: Primary-School-Management-System-Setup-1.0.1.exe
-sha512: Nule0BGiipJ8h5zWDvrb3YgcrVoWu5ZXu6FqY1T1ZeFdsowmxKzKIE7nvS7qwI6Oio0Yc9ADjHYI29+FMXXRUQ==
-releaseDate: '2024-01-24T09:40:49.430Z'
+  - url: Primary-School-Management-System-Setup-1.0.2.exe
+    sha512: 9lu7i3OD+jIkSQYhqpTBGPEHqRuTZ/G/ZooVAjPsrYum5mGNJXkGn8owq7ZgGxwYlJgRHBqpq4AZa6iPwEqqUg==
+    size: 118643558
+path: Primary-School-Management-System-Setup-1.0.2.exe
+sha512: 9lu7i3OD+jIkSQYhqpTBGPEHqRuTZ/G/ZooVAjPsrYum5mGNJXkGn8owq7ZgGxwYlJgRHBqpq4AZa6iPwEqqUg==
+releaseDate: '2024-01-24T20:57:24.063Z'
