@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.mySchool.primary
+productName: Primary-School-Management-System
+win:
+  target: nsis
+  icon: assets/img/icon.png
+files: []
+electronVersion: 28.0.0
